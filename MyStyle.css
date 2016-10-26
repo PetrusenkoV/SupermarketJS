@@ -1,0 +1,15 @@
+﻿h1 {
+    font-size: 14pt;
+    color: red;
+    text-align: center;
+}
+
+ul{
+    
+    color: green;
+}
+
+div{
+    width: 500px;
+    margin: 0 auto;
+}
